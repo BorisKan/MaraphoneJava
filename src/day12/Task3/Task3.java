@@ -27,7 +27,7 @@ public class Task3 {
         for (int i = 0; i < list.size(); i++) {
             if (list.get(i).getYear() > 2000)
                 newList.add(list.get(i));
-        }
+           }
         return newList;
     }
 
