@@ -30,3 +30,4 @@ public class Task4 {
             System.out.println(band.persons.get(i));
     }
 }
+
